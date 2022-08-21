@@ -1,0 +1,17 @@
+modLoader="javafml" 
+loaderVersion="[3,)" 
+license="Powered by Hummel009"
+
+[[mods]]
+modId="dirtequipment"
+version="1.0"
+displayName="Legendary Item"
+credits="Hummel009"
+authors="Hummel009"
+description='''This mod adds suppa duppa dirt tools and armor to Minecraft!!!'''
+[[dependencies.dirtequipment]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18,1.20)"
+    ordering="NONE"
+    side="BOTH"

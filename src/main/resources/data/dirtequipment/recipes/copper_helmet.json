@@ -1,0 +1,16 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "ccc",
+        "c c"
+    ],
+    "key": {
+        "c": {
+            "item": "minecraft:dirt"
+        }
+    },
+  "result": {
+    "item": "dirtequipment:dirt_helmet",
+    "count": 1
+  }
+}

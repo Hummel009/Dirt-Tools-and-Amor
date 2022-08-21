@@ -1,0 +1,17 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "ccc",
+        "c c",
+        "c c"
+    ],
+    "key": {
+        "c": {
+            "item": "minecraft:dirt"
+        }
+    },
+  "result": {
+    "item": "dirtequipment:dirt_leggings",
+    "count": 1
+  }
+}

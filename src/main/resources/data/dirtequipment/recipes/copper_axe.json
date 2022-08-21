@@ -1,0 +1,20 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "cc",
+    "c/",
+    " /"
+  ],
+  "key": {
+    "c": {
+    "item": "minecraft:dirt"
+    },
+    "/": {
+      "item": "stick"
+    }
+  },
+  "result": {
+    "item": "dirtequipment:dirt_axe",
+    "count": 1
+  }
+}
